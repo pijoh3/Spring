@@ -23,7 +23,10 @@
 
 ```mermaid
 graph TD;
-    BeanFactory-->ListableBeanFactory;
+   A-->B;
+   A-->C;
+   B-->D;
+   C-->D;
 ```
 
 ## 1.2. Chapter03 : 스프링 DI
