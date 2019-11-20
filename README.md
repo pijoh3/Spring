@@ -1,4 +1,4 @@
-# Spring 5 프로그래밍 입문
+# 1. TOC Demo
 <!-- TOC -->
 
 - [TOC Demo](#toc-demo)
@@ -8,18 +8,8 @@
 
 <!-- /TOC -->
 
-## 1.1. Chapter02 : 스프링 시작하기
+## 1. Chapter02 : 스프링 시작하기
 
-## 1.2. Chapter03 : 스프링 DI
+## 2. Chapter03 : 스프링 DI
 
-## 1.3. Chapter04 : 의존 자동 주입
-
-
-[TOC]
-
-1.dfdkdfkdf
-
-
-2.dfdfdfjdfj
-
-3.dfdfdfdf
+## 3. Chapter04 : 의존 자동 주입
